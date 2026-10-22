@@ -83,3 +83,9 @@ tags
 /tests_output/
 # custom sample output directory
 /samples_output/
+error_BASE_1052.html
+error_BACKUP_993.html
+error_BACKUP_1052.html
+error.html.orig
+error_BASE_993.html
+error_LOCAL_1052.html
